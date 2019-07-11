@@ -1,0 +1,33 @@
+C:\Project\Database\bin\Debug\Database.dll
+C:\Project\Database\bin\Debug\Database.pdb
+C:\Project\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Project\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Project\Database\obj\Debug\Database.dll
+C:\Project\Database\obj\Debug\Database.pdb
+C:\Project\UPS\Database\bin\Debug\Database.dll.config
+C:\Project\UPS\Database\bin\Debug\Database.dll
+C:\Project\UPS\Database\bin\Debug\Database.pdb
+C:\Project\UPS\Database\bin\Debug\EntityFramework.dll
+C:\Project\UPS\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project\UPS\Database\bin\Debug\EntityFramework.xml
+C:\Project\UPS\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project\UPS\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Project\UPS\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Project\UPS\Database\obj\Debug\Database.dll
+C:\Project\UPS\Database\obj\Debug\Database.pdb
+C:\Project\UPS\Database\bin\Debug\Autofac.dll
+C:\Project\UPS\Database\bin\Debug\Autofac.pdb
+C:\Project\UPS\Database\bin\Debug\Autofac.xml
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\Database.dll.config
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\Database.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\Database.pdb
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\Autofac.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\EntityFramework.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\EntityFramework.SqlServer.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\Autofac.pdb
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\Autofac.xml
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\EntityFramework.xml
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\EntityFramework.SqlServer.xml
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\obj\Debug\Database.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\obj\Debug\Database.pdb

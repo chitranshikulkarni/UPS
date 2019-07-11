@@ -1,0 +1,41 @@
+C:\Project\BussinessService\bin\Debug\BussinessService.dll
+C:\Project\BussinessService\bin\Debug\BussinessService.pdb
+C:\Project\BussinessService\obj\Debug\BussinessService.csprojAssemblyReference.cache
+C:\Project\BussinessService\obj\Debug\BussinessService.csproj.CoreCompileInputs.cache
+C:\Project\BussinessService\obj\Debug\BussinessService.dll
+C:\Project\BussinessService\obj\Debug\BussinessService.pdb
+C:\Project\BussinessService\bin\Debug\Database.dll
+C:\Project\BussinessService\bin\Debug\Database.pdb
+C:\Project\BussinessService\obj\Debug\BussinessService.csproj.CopyComplete
+C:\Project\UPS\BussinessService\bin\Debug\BussinessService.dll
+C:\Project\UPS\BussinessService\bin\Debug\BussinessService.pdb
+C:\Project\UPS\BussinessService\bin\Debug\Database.dll
+C:\Project\UPS\BussinessService\bin\Debug\EntityFramework.dll
+C:\Project\UPS\BussinessService\bin\Debug\Database.pdb
+C:\Project\UPS\BussinessService\bin\Debug\Database.dll.config
+C:\Project\UPS\BussinessService\bin\Debug\EntityFramework.xml
+C:\Project\UPS\BussinessService\obj\Debug\BussinessService.csprojResolveAssemblyReference.cache
+C:\Project\UPS\BussinessService\obj\Debug\BussinessService.csproj.CoreCompileInputs.cache
+C:\Project\UPS\BussinessService\obj\Debug\BussinessService.dll
+C:\Project\UPS\BussinessService\obj\Debug\BussinessService.pdb
+C:\Project\UPS\BussinessService\bin\Debug\Autofac.dll
+C:\Project\UPS\BussinessService\bin\Debug\Autofac.pdb
+C:\Project\UPS\BussinessService\bin\Debug\Autofac.xml
+C:\Project\UPS\BussinessService\bin\Debug\BussinessService.dll.config
+C:\Project\UPS\BussinessService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project\UPS\BussinessService\bin\Debug\EntityFramework.SqlServer.xml
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\obj\Debug\BussinessService.csprojResolveAssemblyReference.cache
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\BussinessService.dll.config
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\BussinessService.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\BussinessService.pdb
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\Autofac.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\Database.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\EntityFramework.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\EntityFramework.SqlServer.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\Database.pdb
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\Autofac.pdb
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\Autofac.xml
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\EntityFramework.xml
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\EntityFramework.SqlServer.xml
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\obj\Debug\BussinessService.dll
+\\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\obj\Debug\BussinessService.pdb
