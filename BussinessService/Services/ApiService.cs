@@ -18,10 +18,16 @@ namespace BussinessService.Services
         {
             return _dataRepository.GetAllState();
         }
+
+        public IList<Vendor> GetVenderInfo()
+        {
+            return _dataRepository.GetAllVendor();
+        }
     }
 
     public interface IApiService
     {
         IList<State> GetStateInfo();
+        IList<Vendor> GetVenderInfo();
     }
 }

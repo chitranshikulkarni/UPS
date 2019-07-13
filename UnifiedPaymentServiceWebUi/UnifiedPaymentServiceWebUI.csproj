@@ -229,22 +229,30 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Images\1.png" />
+    <Content Include="Images\BackArrow.PNG" />
     <Content Include="Images\Broadband.jpg" />
     <Content Include="Images\Broadband.png" />
     <Content Include="Images\CreditCard.jpg" />
     <Content Include="Images\CreditCard.png" />
+    <Content Include="Images\Datacard.PNG" />
     <Content Include="Images\DTH.jpg" />
     <Content Include="Images\DTH.png" />
     <Content Include="Images\Electricity.jpg" />
     <Content Include="Images\Electricity.png" />
+    <Content Include="Images\gas.PNG" />
+    <Content Include="Images\Insurance.PNG" />
     <Content Include="Images\landline.jpg" />
     <Content Include="Images\landline.png" />
+    <Content Include="Images\Muncipal.PNG" />
     <Content Include="Images\pic1.png" />
     <Content Include="Images\pic2.png" />
     <Content Include="Images\pic3.png" />
     <Content Include="Images\pic4.png" />
+    <Content Include="Images\Postpaid.PNG" />
     <Content Include="Images\Prepaid.jpg" />
     <Content Include="Images\Prepaid.png" />
+    <Content Include="Images\Recharge.PNG" />
+    <Content Include="Images\water.PNG" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
@@ -296,6 +304,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Payment\Index.cshtml" />
     <Content Include="Views\Payment\PaymentProcess.cshtml" />
+    <Content Include="Views\Payment\ElectricityPayment.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

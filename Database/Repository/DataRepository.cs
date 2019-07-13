@@ -16,10 +16,16 @@ namespace Database.Repository
         {
            return  _context.States.ToList();
         }
+
+        public IList<Vendor> GetAllVendor()
+        {
+            return _context.Vendors.ToList();
+        }
     }
 
     public interface IDataRepository
     {
         IList<State> GetAllState();
+        IList<Vendor> GetAllVendor();
     }
 }

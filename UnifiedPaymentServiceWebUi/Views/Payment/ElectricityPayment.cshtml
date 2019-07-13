@@ -1,0 +1,179 @@
+﻿@*@model Database.Model.Transaction*@
+
+@{
+    ViewBag.Title = "PaymentProcess";
+}
+
+
+
+<div class="container">
+
+    <div>
+        <a href="~/PaymentProcess/Index"> <img class="img-fluid" style="width:50px;height:50px;" src="../Images/BackArrow.PNG" align="middle">Pay For Electricity</a> 
+    </div>
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+
+        <div class="row setup-content" id="step-1">
+            <div class="col-xs-6 col-md-offset-3">
+                <div class="col-md-12">
+
+                    <div class="form-group">
+                        <input type="radio" id="option1" name="SelectionOption" />Electricity Boards
+                        <input type="radio" id="option2" name="SelectionOption" />Apartments
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Select State</label>
+                        <select id="StateId" name="StateId"  class="form-control" placeholder="Select State">  </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Select Board</label>
+                        <select id="VendorId" class="form-control" name="VendorId" placeholder="Select Circle">  </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Consumer Id/ Account Id</label>
+                        <input required="required" id="ConsumerId" disabled="disabled" type="number" maxlength="10"  class="form-control" placeholder="Consumer Id/ Account Id" />
+                    </div>
+                    <button class="btn btn-primary nextBtn btn-lg pull-right" type="button">Proceed</button>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    }
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<script src="/Scripts/jquery-3.3.1.js"></script>
+
+<script src="/Scripts/bootstrap.js"></script>
+
+
+<script type="text/javascript">
+//$(document).ready(function () {
+//  var navListItems = $('div.setup-panel div a'),
+//          allWells = $('.setup-content'),
+//          allNextBtn = $('.nextBtn');
+
+//  allWells.hide();
+
+//  navListItems.click(function (e) {
+//      e.preventDefault();
+//      var $target = $($(this).attr('href')),
+//              $item = $(this);
+
+//      if (!$item.hasClass('disabled')) {
+//          navListItems.removeClass('btn-primary').addClass('btn-default');
+//          $item.addClass('btn-primary');
+//          allWells.hide();
+//          $target.show();
+//          $target.find('input:eq(0)').focus();
+//      }
+//  });
+
+//  allNextBtn.click(function(){
+//      var curStep = $(this).closest(".setup-content"),
+//          curStepBtn = curStep.attr("id"),
+//          nextStepWizard = $('div.setup-panel div a[href="#' + curStepBtn + '"]').parent().next().children("a"),
+//          curInputs = curStep.find("input[type='text'],input[type='url']"),
+//          isValid = true;
+
+//      $(".form-group").removeClass("has-error");
+//      for(var i=0; i<curInputs.length; i++){
+//                                       if (!curInputs[i].validity.valid){
+//                                       isValid=false;
+//                                       $(curInputs[i]).closest(".form-group").addClass("has-error");
+//                                       }
+//                                       }
+//                                       if (isValid)
+//                                       nextStepWizard.removeAttr('disabled').trigger('click');
+//                                       });
+//                                       $('div.setup-panel div a.btn-primary').trigger('click');
+//});
+
+    $(document).on('click','#option1' ,function () {
+        
+        if ($(this).prop('checked')) {
+            if ($('#StateId option').length <= 0) {
+                $.ajax({
+                    type: "POST",
+                    url: "/Payment/GetAllState",
+                    //data:{datalist:datalist,dataname:dataname},
+                    success: function (data) {
+                        var optionhtml1 = '<option value="' + 0 + '">' + "--Select State--" + '</option>';
+                        $("#StateId").append(optionhtml1);
+                        $.each(data, function (i) {
+                            var optionhtml = '<option value="' + data[i].StateId + '">' + data[i].StateName + '</option>';
+                            $("#StateId").append(optionhtml);
+                        });
+                    }
+
+                });
+            }
+
+        }
+        else {
+            
+        }
+
+    })
+
+    $(document).on('change', "#StateId", function () {
+        var selectedState = $("#StateId option:selected").val();
+        if (selectedState != 0) {
+            $.ajax({
+                type: "POST",
+                url: "/Payment/GetAllVendor",
+                //data:{datalist:datalist,dataname:dataname},
+                success: function (data) {
+                    var optionhtml1 = '<option value="' + 0 + '">' + "--Select Vendor--" + '</option>';
+                    $("#VendorId").append(optionhtml1);
+                    $.each(data, function (i) {
+                        var optionhtml = '<option value="' + data[i].VendorId + '">' + data[i].VendorName + '</option>';
+                        $("#VendorId").append(optionhtml);
+                    });
+                    if ($('#VendorId option').length <= 0) {
+                        $("#ConsumerId").attr('disabled', 'disabled')
+                    }
+                    else {
+                        $("#ConsumerId").removeAttr('disabled')
+                    }
+                }
+
+            });
+        }
+        else {
+            $("#VendorId").val("0");
+            $("#ConsumerId").attr('disabled', 'disabled');
+            $("#ConsumerId").val('');
+        }
+    });
+
+    $(document).on('change', "#VendorId", function () {
+        var selectedVendor = $("#VendorId option:selected").val();
+        if (selectedVendor != 0) {
+            $("#ConsumerId").removeAttr('disabled')
+        }
+        else {
+            $("#ConsumerId").attr('disabled','disabled')
+        }
+    });
+    $(document).on('click',"#option2", function () {
+      
+    });
+
+    $(document).ready(function () {
+       
+    });
+</script>
+

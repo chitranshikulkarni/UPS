@@ -22,6 +22,7 @@ namespace Database
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            Database.SetInitializer<UPSContext>(null);
             base.OnModelCreating(modelBuilder);
         }
     }

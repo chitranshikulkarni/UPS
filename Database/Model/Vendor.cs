@@ -17,5 +17,6 @@ namespace Database.Model
 
         public virtual int CircleId { get; set; }
 
+
     }
 }

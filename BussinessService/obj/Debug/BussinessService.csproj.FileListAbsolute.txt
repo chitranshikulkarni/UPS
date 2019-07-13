@@ -39,3 +39,21 @@ C:\Project\UPS\BussinessService\bin\Debug\EntityFramework.SqlServer.xml
 \\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\bin\Debug\EntityFramework.SqlServer.xml
 \\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\obj\Debug\BussinessService.dll
 \\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\BussinessService\obj\Debug\BussinessService.pdb
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\BussinessService.dll.config
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\BussinessService.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\BussinessService.pdb
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\Autofac.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\Database.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\EntityFramework.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\Database.pdb
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\Database.dll.config
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\Autofac.pdb
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\Autofac.xml
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\EntityFramework.xml
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\obj\Debug\BussinessService.csprojAssemblyReference.cache
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\obj\Debug\BussinessService.csproj.CoreCompileInputs.cache
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\obj\Debug\BussinessService.csproj.CopyComplete
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\obj\Debug\BussinessService.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\BussinessService\obj\Debug\BussinessService.pdb

@@ -11,6 +11,7 @@ namespace UnifiedPaymentServiceWebUi.Migrations
         {
             AutomaticMigrationsEnabled = false;
             ContextKey = "UnifiedPaymentServiceWebUi.Models.ApplicationDbContext";
+           
         }
 
         protected override void Seed(UnifiedPaymentServiceWebUi.Models.ApplicationDbContext context)

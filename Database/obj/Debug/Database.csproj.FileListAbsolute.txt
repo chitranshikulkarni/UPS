@@ -31,3 +31,18 @@ C:\Project\UPS\Database\bin\Debug\Autofac.xml
 \\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\bin\Debug\EntityFramework.SqlServer.xml
 \\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\obj\Debug\Database.dll
 \\ITSEELM-NT0040.ikea.com\Common_C\DWP_Common\5 HCL Work\Team\Chitranshi\HCL Docs\UPS\Database\obj\Debug\Database.pdb
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\Database.dll.config
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\Database.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\Database.pdb
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\Autofac.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\EntityFramework.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\Autofac.pdb
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\Autofac.xml
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\EntityFramework.xml
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\obj\Debug\Database.dll
+C:\Chitranshi\Project\Full Stack\Web Application\Universal Billing System\Database\obj\Debug\Database.pdb
